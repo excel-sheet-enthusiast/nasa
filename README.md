@@ -14,18 +14,7 @@ The core goal of this project is to increase interest in space exploration.
 
 #### Design and Development
 
-Amanda Connelly  
-Amy Gehling  
-Calvin LaBrie  
-Ashley Palmer  
-Keaton Solomon
 
-#### Advanced Coding Assistance
-[Collin Hover](http://collinhover.com "Collin Hover")  
-
-#### Music
-  
-Misc Artists from [Jamendo](http://jamendo.com/)
   
 ## Technology
   
@@ -46,6 +35,3 @@ SoundManager2
 Greensock Tweening Engine  
 
 ---
-  
-*Copyright (C) 2012-Present all NASA Prospect contributors*  
-*For full license and information, see [LICENSE](https://github.com/collinhover/nasaprospect/blob/master/LICENSE).*
